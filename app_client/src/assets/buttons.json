@@ -66,17 +66,17 @@
     },
     {
         "capitalLetter": "Q",
-        "lowerCase": "",
+        "lowerCase": "q",
         "specialCharacter": "/"
     },
     {
         "capitalLetter": "W",
-        "lowerCase": "",
+        "lowerCase": "w",
         "specialCharacter": "?"
     },
     {
         "capitalLetter": "E",
-        "lowerCase": "",
+        "lowerCase": "e",
         "specialCharacter": "°"
     },
     {
@@ -227,11 +227,6 @@
     {
         "capitalLetter": ">",
         "lowerCase": ".",
-        "specialCharacter": ""
-    },
-    {
-        "capitalLetter": "?",
-        "lowerCase": "/",
         "specialCharacter": ""
     }
 ]

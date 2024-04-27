@@ -1,5 +1,5 @@
 .keyboard{
-    border: 1px solid;
+    padding: .3em;
     display: flex;
     flex-flow: row wrap;
     justify-content: flex-start;
