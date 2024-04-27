@@ -1,0 +1,6 @@
+.keyboard{
+    border: 1px solid;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+}

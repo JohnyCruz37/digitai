@@ -1,0 +1,13 @@
+.Typing{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Typing section{
+    border: 1px solid;
+    width: 60%;
+}
+
+.Typing .Typing-dashboard{
+    height: 60vh;
+}
